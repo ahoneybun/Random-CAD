@@ -5,4 +5,4 @@ Random CAD things that I have made
 - Launch-Stand: Piece to attach to the Launch keyboard for phones and tablets
 - Control: A external device with switches and knobs
 
-![Contrl](Control/control.pdf)
+![Control](Control/control.pdf)
