@@ -6,7 +6,7 @@ Random CAD things that I have made
 
 - Control: A external device with switches and knobs
 
-![Control](Control/control-overview.pdf)
+![Control](Control/Control-vB.png)
 
 ## Components for Control:
 
