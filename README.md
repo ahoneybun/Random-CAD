@@ -3,8 +3,10 @@ Random CAD things that I have made
 
 - Coasters: just some plain drink coasters that stack
 - Launch-Stand: Piece to attach to the Launch keyboard for phones and tablets
-
 - Control: A external device with switches and knobs
+- Thelio Fidget Toy: A holder for the Thelio power button to fidget with
+
+![Thelio Fidget Toy](Thelio-Fidget-Toy/thelio-fidget-toy.png)
 
 ![Control](Control/Control-vB.png)
 
