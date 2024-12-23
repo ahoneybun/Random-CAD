@@ -8,6 +8,6 @@ Random CAD things that I have made
 
 ## Components for Control:
 
-- 1x PCB
+- 1x [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
 - 3x [Rotary Potentiometer - 10k Ohm, Linear](https://www.sparkfun.com/products/9939)
 - 3x [Black Metal Knob - 14x24mm](https://www.sparkfun.com/products/10002)
